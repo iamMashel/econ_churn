@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
+# sqlalchemy
+python-dotenv
+ipykernel
+jupyter
+pytest
+black
+isort
+# openpyxl
+# xlsxwriter

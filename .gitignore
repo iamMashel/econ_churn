@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Envs
+venv/
+.env
+
+# Data
+data/raw/*
+!data/raw/README.md
+data/processed/
+
+# OS files
+.DS_Store

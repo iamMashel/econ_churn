@@ -1,0 +1,23 @@
+name: ecom-churn
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip
+  - pip:
+      - plotly
+      - duckdb
+      - streamlit
+      # - sqlalchemy
+      - ipykernel
+      - jupyter
+      - python-dotenv
+      - pytest
+      - black
+      - isort

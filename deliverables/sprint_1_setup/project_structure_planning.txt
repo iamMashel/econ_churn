@@ -1,0 +1,9 @@
+| Component                     | Description                                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------------------- |
+| **📁 Project Structure**      | Cookiecutter-style directory layout (`data/`, `notebooks/`, `src/utils/`, etc.)                   |
+| **📜 README.md**              | Clear project overview, purpose, tools, and usage instructions                                    |
+| **📂 Modular Utilities**      | Created `load_data.py` with reusable functions for CSV loading, DuckDB, and saving                |
+| **📌 Dataset Schema**         | ERD/SQL schema defined for Customers, Orders, Products, Returns, Sessions, Campaigns, and Reviews |
+| **📊 Sample Dataset**         | Generated or sourced realistic CSVs following schema (or fake data placeholder)                   |
+| **🧭 Planning Document**      | Sprints roadmap with business goal alignment (e.g. Sales, Retention, Attribution)                 |
+| **📈 Simulated Client Brief** | Used to mirror real-world requirements for a realistic freelance scenario                         |

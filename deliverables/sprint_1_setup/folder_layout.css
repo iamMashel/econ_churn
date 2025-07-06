@@ -1,0 +1,15 @@
+econ_churn/
+├── data/
+│   ├── raw/               ← Original datasets (CSV, XLSX)
+│   └── processed/         ← Cleaned & ready-to-analyze data
+├── notebooks/
+│   ├── 01-eda-orders.ipynb
+│   └── 02-cleaning-customers.ipynb
+├── src/
+│   └── utils/
+│       └── load_data.py
+├── reports/
+│   └── sprint1-deliverables.md
+│   └── sprint2-deliverables.md
+├── README.md
+└── requirements.txt
