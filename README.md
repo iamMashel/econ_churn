@@ -35,9 +35,7 @@ sessions.csv — user sessions, sources, devices
 campaigns.csv — marketing engagements, conversions
 reviews.csv — product reviews, ratings, text
 
-## 🧱 Key Tables Overview
 
-- `orders`: order_id, customer_id, product_id, order_date, price, discount
-- `customers`: customer_id, region, first_order_date
-- `products`: product_id, category, brand
-- `returns`: order_id, return_date, reason
+## 👨‍💻 Author
+**Mashel Odera** — Data Analyst &  Data Consultant  
+[LinkedIn](https://linkedin.com/in/mashelodera) • [Portfolio](https://github.com/iamMashel/portfolio)
