@@ -1,7 +1,7 @@
 # 🛍️ Elara & Co. E-Commerce Sales Insights
 
 ## 🔍 Objective
-A freelance data analytics project for Elara & Co., focused on uncovering patterns in sales, customer behavior, and retention. Includes KPIs, cohort analysis, and executive-ready reporting.
+A data analytics project for Elara & Co., focused on uncovering patterns in sales, customer behavior, and retention. Includes KPIs, cohort analysis, and executive-ready reporting.
 
 ## 📁 Data Sources
 - `orders.csv`: sales transactions
@@ -19,7 +19,7 @@ A freelance data analytics project for Elara & Co., focused on uncovering patter
 `pandas`, `plotly`, `seaborn`, `scikit-learn`, `streamlit`
 
 ## 💼 Use Case
-Ideal for showcasing client-facing freelance projects in e-commerce, marketing, and business analytics.
+Ideal for showcasing client-facing projects in e-commerce, marketing, and business analytics.
 
 ## Dataset Overview
 generated fake data to simulate, also mirrors what you’d get from Shopify, WooCommerce, or a similar e-commerce platform.
