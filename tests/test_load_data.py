@@ -4,7 +4,7 @@ import pytest
 import pandas as pd
 
 
-from src.utils.load_data import (
+from src.utils.load_data_sample import (
     load_csv,
     duckdb_read_csv,
     list_csv_files,
